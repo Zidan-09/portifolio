@@ -22,7 +22,7 @@ export function Contact() {
       <div className="grid gap-8 lg:grid-cols-[1fr,1.2fr]">
         <div className="reveal space-y-3">
           <a
-            href="mailto:samuel.profissional18@gmail.com"
+            href="mailto:samuelpnascimentodev@gmail.com"
             className="group flex items-center gap-4 rounded-xl border border-border bg-surface p-5 transition-colors hover:border-primary/40"
           >
             <div className="flex h-10 w-10 items-center justify-center rounded-md bg-primary/15 text-primary">
@@ -33,12 +33,12 @@ export function Contact() {
                 Email
               </p>
               <p className="truncate text-sm font-medium text-foreground group-hover:text-primary">
-                samuel.profissional18@gmail.com
+                samuelpnascimentodev@gmail.com
               </p>
             </div>
           </a>
           <a
-            href="https://linkedin.com/in/samuel-nascimento-fullstack"
+            href="https://www.linkedin.com/in/samuel-backend-se/"
             target="_blank"
             rel="noreferrer"
             className="group flex items-center gap-4 rounded-xl border border-border bg-surface p-5 transition-colors hover:border-primary/40"
@@ -51,7 +51,7 @@ export function Contact() {
                 LinkedIn
               </p>
               <p className="truncate text-sm font-medium text-foreground group-hover:text-primary">
-                /in/samuel-nascimento-fullstack
+                /in/samuel-backend-se
               </p>
             </div>
           </a>

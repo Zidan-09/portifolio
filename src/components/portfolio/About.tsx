@@ -13,7 +13,7 @@ export function About() {
           <div className="relative">
             <div className="absolute -inset-2 rounded-full bg-primary/20 blur-2xl" />
 
-            <div className="relative h-32 w-32 overflow-hidden rounded-full border border-border sm:h-40 sm:w-40">
+            <div className="relative h-32 w-32 overflow-hidden rounded-2xl border border-border sm:h-40 sm:w-40">
               <img
                 src={Avatar}
                 alt="Foto de Samuel"

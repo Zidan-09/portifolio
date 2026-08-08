@@ -8,5 +8,8 @@ export default defineConfig({
     react(),
     tsconfigPaths(),
     tailwindcss(),
-  ]
+  ],
+  server: {
+    port: 3001
+  }
 });
